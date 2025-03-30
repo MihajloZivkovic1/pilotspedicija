@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import TrackingContent from './TrackingContent';
+import TrackingContent from '../../components/section/TrackingContent';
 
 export default function TrackingPage() {
   return (
